@@ -20,4 +20,4 @@
 
 - Autumn and early winter season are when most orders taken place for all top 10 cities.
 
-- Refer to this [file](https://public.tableau.com/app/profile/sampath.vinayakh/viz/SuperstoreUSA_16729104728090/Dashboard1) for viewing the visualization. 
+- Refer to this [link](https://public.tableau.com/app/profile/sampath.vinayakh/viz/SuperstoreUSA_16729104728090/Dashboard1) for viewing the visualization. 
