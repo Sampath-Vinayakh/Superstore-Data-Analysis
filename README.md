@@ -2,9 +2,7 @@
 
 **Objective:** 
 
-- To find out if the superstore's customers are spread across the client base and see if there is any single client base which makes up the majority of the superstore's customers.
-
-- To find top 10 best performing cities in terms of orders who have consistently grown there orders year after year and see if there is any trend in terms of orders in the top 10 cities.
+- To work on superstore dataset to help potential superstore owners make data driven decisions.
 
 **Guidelines to use the script:**
 
